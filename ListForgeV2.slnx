@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ListForge.App/ListForge.App.csproj" />
+  <Project Path="ListForge.Core/ListForge.Core.csproj" />
+  <Project Path="ListForge.Infrastructure/ListForge.Infrastructure.csproj" />
+  <Project Path="ListForge.Tests/ListForge.Tests.csproj" />
+</Solution>
